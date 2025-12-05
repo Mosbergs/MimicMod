@@ -1,4 +1,4 @@
-**Mimic Mod (Fabric 1.21.10)**  
+# **Mimic Mod (Fabric 1.21.10)**  
 
 Beware the chest that bites! This mod adds **mimics**—monstrous chests with teeth, tongue, and eerie animations—into Minecraft.  
 
@@ -9,3 +9,24 @@ Beware the chest that bites! This mod adds **mimics**—monstrous chests with te
 - 🌌 **Future‑Proof**: Hooks for biome variants and the Ancient Mimic Boss.  
 
 Requires **Fabric API** and **GeckoLib**.  
+
+---
+
+## One‑liner tagline you can use for Modrinth or CurseForge banners and summaries:
+
+### 🕷 Spooky / Ominous
+- **“Not every chest is safe…”**  
+- **“The treasure you seek may bite back.”**  
+- **“Beware the chest with teeth.”**
+
+### 🎮 Playful / Fun
+- **“Open at your own risk!”**  
+- **“Loot or lunch? You decide.”**  
+- **“Chest or chomper—find out the hard way.”**
+
+### ⚔️ Epic / Adventure
+- **“Face the mimic, claim the lore.”**  
+- **“Legends say the chest is alive…”**  
+- **“Every reward has its guardian.”**
+
+It’s short, ominous, and instantly communicates the core hook of your mod.
