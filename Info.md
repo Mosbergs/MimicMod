@@ -12,7 +12,9 @@ Requires **Fabric API** and **GeckoLib**.
 
 ---
 
-## One‑liner tagline you can use for Modrinth or CurseForge banners and summaries:
+## One‑liner taglines
+
+You can use for Modrinth or CurseForge banners and summaries:
 
 ### 🕷 Spooky / Ominous
 
