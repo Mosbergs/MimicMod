@@ -1,6 +1,6 @@
 # Mimic Mod (Fabric 1.21.10)
 
-A Fabric mod that brings **mimics**—deceptive chest-like monsters—into Minecraft.  
+A Fabric mod that brings **mimics**—deceptive chest-like monsters—into Minecraft.
 Designed for immersion, balance, and extensibility, this mod blends gameplay mechanics with narrative flavor.
 
 ---
@@ -8,11 +8,13 @@ Designed for immersion, balance, and extensibility, this mod blends gameplay mec
 ## ✨ Features
 
 - **Mimic Entities**
+
   - Chest-based creatures with animated lid, teeth, and tongue (powered by GeckoLib).
   - Ambient sounds for eerie immersion.
   - Cosmetic drops for collectors and lore hunters.
 
 - **Gameplay Integration**
+
   - Config-driven spawn rates and loot rarity for balanced progression.
   - Advancements tied to mimic encounters and rewards.
   - Optional codex system with lore pages and NPC flavor text.
@@ -47,6 +49,7 @@ Designed for immersion, balance, and extensibility, this mod blends gameplay mec
 ## 🛠️ Configuration
 
 All settings are **JSON-driven** for easy tuning:
+
 - `spawn_rate`: Adjust mimic frequency.
 - `loot_rarity`: Control drop chances.
 - `difficulty_scale`: Balance encounters for fairness.
@@ -61,9 +64,9 @@ Schema validation ensures configs remain error-free.
 - Unlock lore pages by defeating mimics or finding codex fragments.
 - NPC flavor text enriches the narrative.
 - Advancement tree guides progression:
-  - *First Encounter*: Survive your first mimic.
-  - *Collector*: Gather cosmetic drops.
-  - *Codex Keeper*: Assemble all lore fragments.
+  - _First Encounter_: Survive your first mimic.
+  - _Collector_: Gather cosmetic drops.
+  - _Codex Keeper_: Assemble all lore fragments.
 
 ---
 
@@ -78,5 +81,5 @@ Schema validation ensures configs remain error-free.
 
 ## 📜 License
 
-This project is licensed under All Rights Reserved.  
+This project is licensed under All Rights Reserved.
 See [LICENSE](LICENSE) for details.
